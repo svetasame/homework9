@@ -1,0 +1,15 @@
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.csproj.AssemblyReference.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.GeneratedMSBuildEditorConfig.editorconfig
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.AssemblyInfoInputs.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.AssemblyInfo.cs
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.csproj.CoreCompileInputs.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\bin\Debug\net7.0\homework9.exe
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\bin\Debug\net7.0\homework9.deps.json
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\bin\Debug\net7.0\homework9.runtimeconfig.json
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\bin\Debug\net7.0\homework9.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\bin\Debug\net7.0\homework9.pdb
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\refint\homework9.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.pdb
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\homework9.genruntimeconfig.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\ninthseminar\homework9\obj\Debug\net7.0\ref\homework9.dll
